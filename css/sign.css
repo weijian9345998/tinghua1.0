@@ -1,0 +1,165 @@
+@charset "utf-8";
+header{
+	  width: 100%;
+	  height: 40%;
+	  font-size: 0.15rem;
+	  color: #5E5E5E;
+      box-sizing: border-box;
+  }
+#cha img{
+	  width: 10%;
+	  float: right;
+	  padding: 6%;
+  }
+#wxlogo {clear:both;text-align: center;}
+#wxlogo img{width: 28%}
+header span{
+	  width: 100%;
+	  text-align: center;
+  }
+header b{
+	  border-top: solid 1px #F4F4F4;
+	  width: 70%;
+	  margin:6% 15% 3%;
+  }
+  header i{
+	  color: #C1BFC0;
+	  width: 10%;
+	  height: 5%;
+	  background: #fff;
+	  position: relative;
+	  top: -8.5%;
+	  left: 45%;
+	  z-index: 9;
+	  text-align: center;
+  }
+   section{
+	   width: 100%;
+	   height: 20%;
+	   font-size: 0.15rem;
+   }
+   section div{
+	   border: solid 1px #F2F2F2;
+	   height: 50%;
+	   display: flex;
+	   align-items: center;
+	   padding-left: 5%;
+   }
+   section div:nth-of-type(1){
+	   margin-top: 10%;
+	   border-bottom: none;
+   }
+   section div img{width: 8%}
+   section div input{
+	   width: 60%;
+	   height: 80%;
+	   border: none;
+	   margin-left: 5%;
+	   outline: none;
+	   text-indent: 0.01rem;
+	   }
+	section div:nth-of-type(1) a{
+     border-left: solid 1px #F2F2F2;
+	 color: #86BCAF;
+	 font-size: 0.14rem;
+	 width: 35%;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 height: 80%;
+	}
+::-webkit-input-placeholder { /* WebKit browsers */
+    color:    #D3D4D9;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    #D3D4D9;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    #D3D4D9;
+}
+:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    #D3D4D9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

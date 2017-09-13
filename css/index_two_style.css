@@ -1,0 +1,170 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	font-size:41.2px;
+}
+body{
+	margin:0;
+	padding:0;
+	width:100%;
+	font-size: 12px;
+	overflow-x: hidden;
+    }
+.swiper{
+	width: 100%;
+	height: 412px;
+}
+.swiper-slide img{
+	width: 100%;
+	height: 412px;
+}
+.goodsoff{
+	width: 100%;
+	height: 32.95px;
+	line-height: 32.95px;
+	color: #fff;
+	background: #ccc;
+	text-align: center;
+	font-family: 微软雅黑;
+}
+.lastTime{
+	width: 100%;
+	height: 41.19px;
+	background: #5BA997;
+    color: #fff;
+}
+.goodtext{
+	width: 100%;
+	height: 109.86px;
+	background: #fff;
+    text-align: center;
+	font-family: 微软雅黑;
+}
+.t-1{
+	font-size: 15px;
+	text-align: center;
+	margin-top:15px;
+}
+.t-2{
+	font-size: 14px;
+	text-align: center;
+	margin-top: 10px;
+    color: #5BA997;
+}
+.t-3{
+	font-size: 14px;
+	text-align: center;
+	margin-top: 10px;
+    color: #5BA997;
+}
+.goodsimg{
+	width: 100%;
+	padding-bottom: 0.4rem;
+}
+.goodsimg img{
+	width: 100%;
+	height:182.92;
+	margin: -3px 0 0 0;
+}
+.youlike{
+	width: 100%;
+	margin: 0 auto;
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    border-bottom: 1px solid #e5e5e5;
+}
+.shoptitle{
+	padding: 0.133333rem;
+    text-align: center;
+	height: 1.493333rem;
+    line-height: 1.493333rem;
+	color: #111;
+	font-size: 15px;
+	font-family: "微软雅黑";
+}
+.shoptitle img{
+	width: 1.226667rem;
+    height: 0.146667rem;
+}
+.shoptitle span{
+	padding-right: 0.266667rem;
+    padding-left: 0.266667rem;
+}
+.listul{
+	width: 100%;
+	height:13rem;
+	list-style: none;
+}
+.listul  li{
+	width:100%;
+	height:6rem;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+.listul  li a{
+	width:4rem;
+	height:5.5rem;
+	border:1px solid #eee;
+}
+.listul li a img{
+	width:100%;
+	height:3rem;
+}
+.pr1{
+	font-size: 15px;
+	color: #111;
+    margin-top: 0.266667rem;
+    margin-left: 0.133333rem;
+    overflow: hidden;
+	font-family: "微软雅黑";
+}
+.pr2{
+	font-size: 12px;
+	color: #9D9D9D;
+    margin-left: 0.133333rem;
+    margin-top: 0.266667rem;
+    height: 0.4rem;
+    overflow: hidden;
+	font-family: "微软雅黑";
+}
+.pr3{
+	font-size: 12px;
+	color: #5BA997;
+    margin-top: 0.266667rem;
+    margin-bottom: 0.4rem;
+    margin-left: 0.133333rem;
+}
+.foot_box{
+	width:100%;
+	position: fixed;
+	bottom: 0;
+    background: #fff;
+    height: 1.306667rem;
+    line-height: 1.306667rem;
+    text-align: center;
+    border-top: 1px solid #ebebeb;
+	font-family: "微软雅黑";
+	background: #ccc;
+}
+.foot_box span{
+	font-size: 18px;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
